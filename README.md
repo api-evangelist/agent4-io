@@ -66,7 +66,7 @@
 
 Agent4.io provides AI-powered autonomous agents that consult, convert, and follow up with customers. Their platform automates routine work such as answering queries, qualifying leads, and handling follow‑ups across web, chat, and voice channels. It targets businesses looking to reduce operational costs and free staff for higher‑value tasks. The solution includes customizable workflows, memory per customer, and integration via APIs and MCP, supporting industries like legal, immigration, insurance, lending, and hospitality.
 
-**Areas:** AI · Automation · CustomerEngagement · SaaS · AgentPlatform
+**Areas:** Artificial Intelligence · Automation · Customer Engagement · Software-as-a-Service · Agent Platform
 
 ## Agent4.io on APIs.io
 
@@ -108,14 +108,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agent4 Io Authentication](https://apis.io/security/agent4-io/agent4-io-authentication/)
-- [Agent4 Io Domain Security](https://apis.io/security/agent4-io/agent4-io-domain-security/)
+- [Agent4.io Authentication](https://apis.io/security/agent4-io/agent4-io-authentication/)
+- [Agent4.io Domain Security](https://apis.io/security/agent4-io/agent4-io-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agent4 Io Plans Pricing](https://apis.io/plans/agent4-io/agent4-io-plans-pricing/)
+- [Agent4.io Plans Pricing](https://apis.io/plans/agent4-io/agent4-io-plans-pricing/)
 
 ## Where to find this API
 
@@ -133,25 +133,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 53.8** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 50.0** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 50.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
+| Contract governance | 22.0 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 73.2 |
+| Access clarity | 76.6 |
 
-**Agent readiness 19.3** — agent-aware
+**Agent readiness 15.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -169,8 +169,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agent4-io/](https://apis.io/providers/agent4-io/).
 
